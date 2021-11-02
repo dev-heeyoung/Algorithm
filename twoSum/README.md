@@ -1,4 +1,4 @@
-# The question
+# Question
 Two Sum
 
 # Source
