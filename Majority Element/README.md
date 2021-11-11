@@ -9,11 +9,11 @@ I can find the majority element in the array using an iterative loop. I initiali
 
 ## Example:
 ```
-nums array 3,2,3<br />
-     count 1 0 1<br />
-  majority 3 2 3<br />
+nums array 3,2,3  
+     count 1 0 1  
+  majority 3 2 3  
 
-nums array 2,2,1,1,1,2,2<br />
-     count 1 2 1 0 1 0 1<br />
-  majority 2 2 2 2 1 2 2<br />
+nums array 2,2,1,1,1,2,2  
+     count 1 2 1 0 1 0 1  
+  majority 2 2 2 2 1 2 2  
 ```
